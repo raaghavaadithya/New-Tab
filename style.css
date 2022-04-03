@@ -1,0 +1,36 @@
+body {
+  /* background-color: #1b1c3d; */
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+.input-field {
+  /* color: #000;   */
+  margin-top: 250px;
+  height: 360px;
+  width: 100%;
+  font-size: 40px;
+  border: none;
+  outline: none;
+  resize: none;
+  font-family: "Lato";
+  background: transparent;
+  text-align: center;
+}
+
+.theme {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.theme-label {
+  /* color: #fff; */
+  font-family: "Lato";
+  margin-right: 10px;
+  font-size: 15px;
+}

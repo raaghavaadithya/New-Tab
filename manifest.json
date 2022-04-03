@@ -1,0 +1,12 @@
+{
+    "name": "New Tab",
+    "description": "Custom new tab page",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_url_overrides" : {
+      "newtab": "newtab.html"
+    },
+    "permissions" : [
+      "storage"
+    ]
+}
